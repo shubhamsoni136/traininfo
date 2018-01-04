@@ -1,6 +1,6 @@
 {
-  "name":"traininfo",
-  "version":"0.0.1",
+  "name": "traininfo",
+  "version": "0.0.1",
   "description": "find status of trains",
   "main": "server.js",
   "scripts": {
